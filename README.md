@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity & Networking Projects:</h2>
 
-   - [Installing Active Directory Home Lab](https://github.com/sinaighani21/DHCP-ab)
+   - [Installing DHCP & Remote Access Service Home Lab](https://github.com/sinaighani21/DHCP-ab)
 
 
 <h2>📺 Video installing Active Directory</h2>
@@ -12,8 +12,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="SinaIghani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SinaIghani | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/sinaaaig/
 [linkedin]: https://www.linkedin.com/in/sina-ighani/
