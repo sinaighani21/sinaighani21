@@ -1,5 +1,5 @@
 <h1>Hey there, I'm Sina!
-<h1>Welcome to my page!</h1>
+<h1>Welcome to my page!
 
 <h2>👨‍💻 Cybersecurity & Networking Projects:</h2>
 
