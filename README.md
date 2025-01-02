@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity & Networking Projects:</h2>
 
-   - [Installing Active Directory Home Lab](https://github.com/https://github.com/sinaighani21/DHCP-ab)
+   - [Installing Active Directory Home Lab](https://github.com/sinaighani21/DHCP-ab)
 
 
 <h2>📺 Video installing Active Directory</h2>
