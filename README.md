@@ -11,6 +11,14 @@
 - [Tutorial | How to install Active Directory](https://youtu.be/9nUwH4WPf5M)
 
 
+<h1>Certifications:
+- compTIA Security +
+- Red Hat (RHCE)
+- CCNA
+- Google Cybersecurity Analyst
+
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="SinaIghani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
