@@ -7,6 +7,8 @@
 
    - [Installing DHCP & Remote Access Service Home Lab](https://github.com/sinaighani21/DHCP-ab)
 
+   - [Designing Networking projects using packet tracer](
+
 
 <h2>📺 Video installing Active Directory</h2>
 
