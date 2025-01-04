@@ -10,7 +10,7 @@
    - [Designing Networking projects using packet tracer](https://github.com/sinaighani21/NetworkTopologyDesigns)
 
 
-<h2>📺 Video installing Active Directory</h2>
+<h2>📺 Watch my video installing Active Directory</h2>
 
 - [Tutorial | How to install Active Directory](https://youtu.be/9nUwH4WPf5M)
 
