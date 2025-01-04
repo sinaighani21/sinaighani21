@@ -9,6 +9,8 @@
 
    - [Designing Networking projects using packet tracer](https://github.com/sinaighani21/NetworkTopologyDesigns)
 
+   - [How Hackers Could Brute-Force SSH Credentials to Gain Access to Servers]
+
 
 <h2>📺 Watch my video installing Active Directory</h2>
 
