@@ -5,6 +5,8 @@
 
    - [Risk Assessment Report](https://github.com/sinaighani21/RiskAssessmentReport) 📄
 
+   - Nikto Web Server Vulnerability Scanning
+
    - [How Hackers Could Brute-Force SSH Credentials to Gain Access to Servers](https://github.com/sinaighani21/BruteForceSSHCredentials) ⚠️
 
    - [Installing DHCP & Remote Access Service Home Lab](https://github.com/sinaighani21/DHCP-ab) 🖥️
