@@ -5,7 +5,7 @@
 
    - [Risk Assessment Report](https://github.com/sinaighani21/RiskAssessmentReport) 📄
 
-   - Nikto Web Server Vulnerability Scanning
+   - [Nikto Web Server Vulnerability Scanning](https://github.com/sinaighani21/NiktoVulnerabilityScan) 🚀
 
    - [How Hackers Could Brute-Force SSH Credentials to Gain Access to Servers](https://github.com/sinaighani21/BruteForceSSHCredentials) ⚠️
 
