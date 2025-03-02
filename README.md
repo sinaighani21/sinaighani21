@@ -5,6 +5,8 @@
 
    - [Risk Assessment Report](https://github.com/sinaighani21/RiskAssessmentReport) 📄
 
+   - [How to Remotely control any PC or Servers with Reverse Shell using Kali Linux](https://www.youtube.com/watch?v=dCiqNuSRse4&t=47s)
+
    - [Nikto Web Server Vulnerability Scanning](https://github.com/sinaighani21/NiktoVulnerabilityScan) 🚀
 
    - [How Hackers Could Brute-Force SSH Credentials to Gain Access to Servers](https://github.com/sinaighani21/BruteForceSSHCredentials) ⚠️
